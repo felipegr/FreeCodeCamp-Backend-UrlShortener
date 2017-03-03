@@ -1,0 +1,16 @@
+{
+  "name": "3-url_shortener",
+  "version": "1.0.0",
+  "description": "Url shortener service for FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Godói Rosário",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0",
+    "mongodb": "^2.2.24",
+    "validator": "^7.0.0"
+  }
+}
